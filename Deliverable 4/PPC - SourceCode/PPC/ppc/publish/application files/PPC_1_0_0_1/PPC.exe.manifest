@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="PPC.exe" version="1.0.0.1" publicKeyToken="2a686b4c44b90c93" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PPC" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="PPC.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opzioni manifesto Controllo account utente
+          Se si desidera modificare il livello di Controllo account utente di Windows, sostituire il 
+          nodo requestedExecutionLevel con uno dei seguenti.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Se si desidera utilizzare Virtualizzazione file system e registro di sistema per la 
+         compatibilità con le versioni precedenti, eliminare il nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PPC.exe" size="1310144">
+      <assemblyIdentity name="PPC" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cwCLG1ynbTCWdSECXmsnlHHSjNq9hynI/fxQShcQn3g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="PPC.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Marina-PC\Andrea" issuerKeyHash="10e8582959a4280c56129ce1ce5e5948c5d02441" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>0TVVgKIwnDwWh0a0wflEMU5zj12uw+yqIPqoHizFH58=</DigestValue></Reference></SignedInfo><SignatureValue>4imT8NWdvT1tGnX+or/egoMBqSn7Sj2RlxaqZltPzihVkO7Fj+YPpOD3Lo9/VhlQi7tnE5In+twWAHbCnMRq2HIyyEMa6jOVp5ZPz5N1aNKWMWCMchSoz4CnX81HJg0Fmi8iHbtJKFAYg8V8c5PuSwGWzhxsGhHwCuAzsFkwyhw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>9bmZAa8vuSbJZAnMZEMHgu0F3tHeBDRfeTfIsnyWj/H9Gmcnu+QWsEn1NUYuT3Xd3V8aJSvHGO5HkU35PuFd3lW8+43aI5tleo5IjxbYwYAVM4rmY1/nFzI0WuCjwPwY4dG7n+AFSvsbSrLOlxkxEwfSpxWxXwJ5vygkXVLdqSM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9f1fc52c1ea8fa20aaecc3ae5d8f734e3144f9c1b44687163c9c30a2805535d1" Description="" Url=""><as:assemblyIdentity name="PPC.exe" version="1.0.0.1" publicKeyToken="2a686b4c44b90c93" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Marina-PC\Andrea</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ytrCRoknKEgSVIazsudP14aRI1OK78EhZXPHEl3TLRk=</DigestValue></Reference></SignedInfo><SignatureValue>O0UYUY+LHdDfi4RL95jTEcvShXz2623gh5JKlAK3KBtW9A6hkKqT70D7CjpEfqbrYPY3vbnv7GXtcDZkG0k0v+RSyXMFgL8Em4i2wBevJYsWVVrg9dSs+5c6vfKCtISXYZ16ukRrE16lOGZl/frxk+q/YGjzN5ORzt6KL21fWKI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>9bmZAa8vuSbJZAnMZEMHgu0F3tHeBDRfeTfIsnyWj/H9Gmcnu+QWsEn1NUYuT3Xd3V8aJSvHGO5HkU35PuFd3lW8+43aI5tleo5IjxbYwYAVM4rmY1/nFzI0WuCjwPwY4dG7n+AFSvsbSrLOlxkxEwfSpxWxXwJ5vygkXVLdqSM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQW/avjktJKLhBIiis96fFUjANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAATQBhAHIAaQBuAGEALQBQAEMAXABBAG4AZAByAGUAYTAeFw0xNjAyMDgwMDMyMTRaFw0xNzAyMDcwNjMyMTRaMCsxKTAnBgNVBAMeIABNAGEAcgBpAG4AYQAtAFAAQwBcAEEAbgBkAHIAZQBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD1uZkBry+5JslkCcxkQweC7QXe0d4ENF95N8iyfJaP8f0aZye75BawSfU1Ri5Pdd3dXxolK8cY7keRTfk+4V3eVbz7jdojm2V6jkiPFtjBgBUziuZjX+cXMjRa4KPA/Bjh0buf4AVK+xtKss6XGTETB9KnFbFfAnm/KCRdUt2pIwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAD3A3ssCYnsktj3wPHwuAI7UFwmhlNk3SL4AJlItRyMfmM07PQn/QejpROXgmHY0MCbg/YvBD2hFqNJXsQ+XaIEwWaLjB/0y/ZmDRhG/w7A0sDhbZczXBEplvcoE7x3458hMAIOCSYpdPi99QDDEejgMpO6GDOCW+u8s3iJ2L//P</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

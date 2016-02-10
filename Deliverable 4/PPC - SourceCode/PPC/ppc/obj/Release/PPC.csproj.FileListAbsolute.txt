@@ -1,0 +1,2 @@
+C:\Users\SS\Desktop\PPC\PPC\bin\Release\PPC.exe.config
+C:\Users\SS\Desktop\PPC\PPC\obj\Release\PPC.csproj.ResolveComReference.cache

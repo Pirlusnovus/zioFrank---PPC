@@ -1,0 +1,323 @@
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\bin\Debug\PPC.exe.config
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\CP\CP_Form.g.cs
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Form.g.cs
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC_FeedBack.g.cs
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\UT\UT_Form.g.cs
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\App.g.cs
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC_MarkupCompile.cache
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC_MarkupCompile.lref
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\bin\Debug\PPC.exe
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\bin\Debug\PPC.pdb
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\CP\CP_Form.baml
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Form.baml
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC_FeedBack.baml
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\UT\UT_Form.baml
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC.g.resources
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC.Properties.Resources.resources
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC.csproj.GenerateResource.Cache
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC.exe
+c:\users\andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC.pdb
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\mainwindow.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\mainwindow.baml
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\App.baml
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.g.cs
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.g.cs
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.baml
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.baml
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\bin\Debug\PPC.exe.manifest
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\bin\Debug\PPC.application
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC.exe.manifest
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC.application
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\documents\visual studio 2015\Projects\PPC\PPC\obj\Debug\PPC.csproj.ResolveComReference.cache
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC.csprojResolveAssemblyReference.cache
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC.exe
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC.pdb
+C:\Users\Gabriele\Desktop\PPC\PPC\bin\Debug\PPC.exe.config
+C:\Users\Gabriele\Desktop\PPC\PPC\bin\Debug\PPC.exe.manifest
+C:\Users\Gabriele\Desktop\PPC\PPC\bin\Debug\PPC.application
+C:\Users\Gabriele\Desktop\PPC\PPC\bin\Debug\PPC.exe
+C:\Users\Gabriele\Desktop\PPC\PPC\bin\Debug\PPC.pdb
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC.csproj.ResolveComReference.cache
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\CP\CP_Form.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\CT\CT_Form.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC_FeedBack.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\mainwindow.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\UT\UT_Form.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\App.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC_MarkupCompile.cache
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC_MarkupCompile.lref
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\App.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\CP\CP_Form.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\CT\CT_Form.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC_FeedBack.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\mainwindow.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\UT\UT_Form.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC.g.resources
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC.Properties.Resources.resources
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC.csproj.GenerateResource.Cache
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC.exe.manifest
+C:\Users\Gabriele\Desktop\PPC\PPC\obj\Debug\PPC.application
+C:\Users\vince\Desktop\PPC\PPC\bin\Debug\PPC.exe.config
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC.csproj.ResolveComReference.cache
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC.exe
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC.pdb
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC.csprojResolveAssemblyReference.cache
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\CP\CP_Form.g.cs
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.g.cs
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.g.cs
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\CT\CT_Form.g.cs
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC_FeedBack.g.cs
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\mainwindow.g.cs
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\UT\UT_Form.g.cs
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\App.g.cs
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC_MarkupCompile.cache
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC_MarkupCompile.lref
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\App.baml
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\CP\CP_Form.baml
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.baml
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.baml
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\CT\CT_Form.baml
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC_FeedBack.baml
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\mainwindow.baml
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\UT\UT_Form.baml
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC.g.resources
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC.Properties.Resources.resources
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC.csproj.GenerateResource.Cache
+C:\Users\vince\Desktop\PPC\PPC\bin\Debug\PPC.exe.manifest
+C:\Users\vince\Desktop\PPC\PPC\bin\Debug\PPC.application
+C:\Users\vince\Desktop\PPC\PPC\bin\Debug\PPC.exe
+C:\Users\vince\Desktop\PPC\PPC\bin\Debug\PPC.pdb
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC.exe.manifest
+C:\Users\vince\Desktop\PPC\PPC\obj\Debug\PPC.application
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\PPC.exe.config
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC.csproj.ResolveComReference.cache
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC.exe
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC.pdb
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\PPC.exe.manifest
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\PPC.application
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\PPC.exe
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\PPC.pdb
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\CP\CP_Form.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\CT\CT_Form.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC_FeedBack.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\mainwindow.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\UT\UT_Form.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\App.g.cs
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC_MarkupCompile.cache
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC_MarkupCompile.lref
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\App.baml
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\CP\CP_Form.baml
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.baml
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.baml
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\CT\CT_Form.baml
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC_FeedBack.baml
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\mainwindow.baml
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\UT\UT_Form.baml
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC.g.resources
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC.Properties.Resources.resources
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC.exe.manifest
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\obj\Debug\PPC.application
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\MrMitch.Loaders.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Andrea\Documents\Visual Studio 2015\Projects\PPC\PPC\PPC\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\PPC.exe.config
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC.csproj.ResolveComReference.cache
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC.exe
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC.pdb
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC.csprojResolveAssemblyReference.cache
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\CP\CP_Form.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\CT\CT_Form.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC_FeedBack.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\mainwindow.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\UT\UT_Form.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\App.g.cs
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC_MarkupCompile.cache
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC_MarkupCompile.lref
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\PPC.exe.manifest
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\PPC.application
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\PPC.exe
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\PPC.pdb
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\MrMitch.Loaders.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\App.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\CP\CP_Form.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\CT\CT_Form.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC_FeedBack.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\mainwindow.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\UT\UT_Form.baml
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC.g.resources
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC.Properties.Resources.resources
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC.csproj.GenerateResource.Cache
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC.exe.manifest
+C:\Users\Gabriele\Desktop\PPC\PPC\PPC\obj\Debug\PPC.application
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\PPC.exe.config
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\PPC.exe.manifest
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\PPC.application
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\PPC.exe
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\PPC.pdb
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\MrMitch.Loaders.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC.csproj.ResolveComReference.cache
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\CP\CP_Form.g.cs
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.g.cs
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.g.cs
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Form.g.cs
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC_FeedBack.g.cs
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\mainwindow.g.cs
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\UT\UT_Form.g.cs
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\App.g.cs
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC_MarkupCompile.cache
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC_MarkupCompile.lref
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\App.baml
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\CP\CP_Form.baml
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.baml
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.baml
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\CT\CT_Form.baml
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC_FeedBack.baml
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\mainwindow.baml
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\UT\UT_Form.baml
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC.g.resources
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC.Properties.Resources.resources
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC.csproj.GenerateResource.Cache
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC.exe.manifest
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC.application
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC.exe
+C:\Users\Gabriele\Documents\Visual Studio 2015\Projects\PPC\PPC\obj\Debug\PPC.pdb
+C:\Users\SS\Desktop\PPC\PPC\bin\Debug\PPC.exe.config
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.csproj.ResolveComReference.cache
+C:\Users\SS\Desktop\PPC\PPC\bin\Debug\PPC.exe.manifest
+C:\Users\SS\Desktop\PPC\PPC\bin\Debug\PPC.application
+C:\Users\SS\Desktop\PPC\PPC\bin\Debug\PPC.exe
+C:\Users\SS\Desktop\PPC\PPC\bin\Debug\PPC.pdb
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.csprojResolveAssemblyReference.cache
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\CP\CP_Form.g.cs
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.g.cs
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.g.cs
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\CT\CT_Form.g.cs
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC_FeedBack.g.cs
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\mainwindow.g.cs
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\UT\UT_Form.g.cs
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\App.g.cs
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC_MarkupCompile.cache
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC_MarkupCompile.lref
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\App.baml
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\CP\CP_Form.baml
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_DefVal.baml
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\CT\CT_Dialog_RangeVal.baml
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\CT\CT_Form.baml
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC_FeedBack.baml
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\mainwindow.baml
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\UT\UT_Form.baml
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.g.resources
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.Properties.Resources.resources
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.csproj.GenerateResource.Cache
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.TrustInfo.xml
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.exe.manifest
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.application
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.exe
+C:\Users\SS\Desktop\PPC\PPC\obj\Debug\PPC.pdb
