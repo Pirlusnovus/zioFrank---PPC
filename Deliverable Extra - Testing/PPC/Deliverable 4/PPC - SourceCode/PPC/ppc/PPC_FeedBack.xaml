@@ -1,0 +1,34 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PPC"
+        xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero" x:Class="PPC.PPC_FeedBack"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Title="PPC_FeedBack" Height="375" Width="590"
+        Topmost="True"
+        WindowStartupLocation="CenterScreen"
+        Style="{StaticResource PPC}">
+
+    <Grid Style="{StaticResource windowsPPC}" Margin="3,1,3,3">
+        <TextBlock x:Name="TitleWin" Text="Result" Style="{StaticResource TitleWindows}" TextAlignment="Center" Grid.Row="0" Margin="0,0,0,326" MouseLeftButtonDown="Mover"/>
+
+        <ScrollViewer Height="141" VerticalAlignment="Top" Margin="40,123,40,0" VerticalScrollBarVisibility="Auto">
+            <TextBlock x:Name="textBox"   TextWrapping="Wrap"  Background="#FF1E1E1E" FontFamily="Raavi" TextAlignment="Left"/>
+        </ScrollViewer>
+        <Label x:Name="Lable_PPC" Content="Feedback/Output:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40,94,0,0" FontFamily="Raavi" Width="196" Height="30" FontWeight="Bold" FontSize="16"/>
+        <Button x:Name="Back_H" Content="OK" Style="{StaticResource Button_BH}" Height="22" Margin="217,0,217,45" VerticalAlignment="Bottom" Click="Ok"/>
+        <!--            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF818181" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+-->
+    </Grid>
+</Window>

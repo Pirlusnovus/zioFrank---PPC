@@ -1,0 +1,96 @@
+String category:
+	zero length. [error]
+	one or more char. [property settled] 
+	spaces. [single]
+	special char. [single]
+	
+
+Configuration:	
+		all match with data on server. [if settled] [property connection]
+
+
+Create tree:
+	Strings Depth content:
+		spaces. [error]
+		char.   [error]
+		lesser than two(negative too). [error]	
+		two. [if settled] [property MinDepth] [else] [error] 	
+		lesser than logarithm on base splitsize of (2000000-1)multiplied for splitsize, then minus one. [if settled] [property MediumDepth] [else] 																			    [error]	
+		nineteen. [if settled] [property MaxDepth] [else] [error]
+		more than nineteen. [if settled] [property OverDepth] [else] [error]
+
+
+
+	String Splitsize content:
+		spaces. [error]
+		char.	[error]
+		zero.[error]
+		two. [if settled && OverDepth] [error] [else] [property MinimumSplitsize, single] 
+		between two and one thousand. [if settled && (OverDepth || MaxDepth)] [error] [else] [property MediumSplitsize]
+		one thousand. [if settled && !MinDepth] [error] [else] [property MaxSplitsize, single]
+		
+
+
+	String Type Content:	
+		unmatch with data on server. [if settled] [property typeOk] [else] [error]
+
+
+
+
+	Lists of attributes length:
+		zero length. [error]
+		only one attribute selected. [if settled && connection] [property OneAttr, single] [else] [error]
+		special attribute NOattribute selected. [if settled && !OneAttr && connection] [property NoAttr, single] 
+				 			[else] [error]
+		greater than one.[if settled && !NoAttr && !OneAttr && connection] [property MoreAttr]
+
+
+
+
+
+	Radioboxes Rulegenerations content:
+		default value. [if settled] [property Default] [else] [error]
+		random value.  [if settled && !Default] [property RangeOnly] [else] [error]
+
+
+
+	String Ranges value:
+		zero. [if settled && RangeOnly] [property RangeZeroValue, single] [else] [error]
+		greater than zero. [if settled && RangeOnly] [property RangeGreaterThanZeroValue] [else] [error]
+		lesser than zero.  [if settled && RangeOnly] [property RangeLessThanZeroValue, single] [else] [error]
+
+
+
+
+
+Upload Tree:
+
+	String Filename content:
+		match with existing file. [error]
+		unmatch with existing file. [if settled && connection] [property UnmatchWithFile] [else] [error]
+		match with existing tree on DB. [if settled] [error]
+		unmatch with existing tree on DB. [if settled && connection] [property UnmatchWithTree] [else] [error]
+
+
+
+
+
+Calculate Path:	
+	Strings content:
+		match with data on DB. [if settled && connection] [property matchWithData] [else] [error]
+		unmatch with data on DB. [if settled] [error] 
+		vertex A branch differs from vertex B branch. [if settled] [error]
+		vertex B preceedes vertex A. [if settled && connection] [property BpreceedesA] [else] [error]
+
+
+
+
+Add Attribute:		
+	String AttrName content:		
+		unmatch with data on DB. [if settled && connection] [property AttrUnmatchWithData, single] [else] [error]
+
+
+		
+		
+	
+		 
